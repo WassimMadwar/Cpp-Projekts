@@ -1,0 +1,5 @@
+﻿  Ticket.cpp
+C:\Users\Wassim\work\ToGitHub\Ticket\Ticket\clsQueueLine.h(130,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Ticket.cpp')
+  
+  Ticket.vcxproj -> C:\Users\Wassim\work\ToGitHub\Ticket\x64\Debug\Ticket.exe
